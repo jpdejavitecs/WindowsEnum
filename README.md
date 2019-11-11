@@ -6,6 +6,11 @@ This script automates most of what is detailed in my Windows Privilege Escalatio
 
 ## Usage
 
+Check the PowerShell version, in order to choose the right script:
+```
+c:\> powershell get-host
+```
+
 To run the quick standard checks.
 
 ```powershell
